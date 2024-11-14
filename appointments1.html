@@ -56,30 +56,40 @@
       }
 
       .contact-btn {
-         background-color: #28a745;
-         color: white;
+        color: white;
+        background-color: white;
          border: none;
          padding: 10px 15px;
          border-radius: 5px;
          cursor: pointer;
          flex: 1;
          text-align: center;
+         display: inline-block; 
+         transition: transform 0.2s;
       }
 
       .contact-btn:hover {
-         background-color: #218838;
+        color: #007bff;
+        background-color:white ;
+        transform: translateY(-5px);
       }
 
-      a {
-         color: #007bff;
+      .location-btn {
+        color: #007bff;
          text-decoration: none;
-         flex: 1;
-         text-align: center;
+         transition: text-decoration 0.3s,transform 0.2s;
+         margin-left: 10px;
       }
 
-      a:hover {
-         text-decoration: underline;
+      .location-btn:hover {
+        text-decoration: underline;
+        transform: translateY(-5px);
       }
+      .contact-btn img, .location-btn img {
+    width: 40px; /* Make both icons the same width */
+    height: 40px; /* Make both icons the same height */
+    vertical-align: middle;
+}
 
       /* Responsive Design */
       @media (max-width: 768px) {
@@ -94,17 +104,21 @@
          .hospital-name {
             margin-bottom: 10px; /* Add space between name and buttons */
          }
-         .contact-btn, a {
+         .contact-btn, .location-btn {
             width: 100%; /* Make buttons full width on mobile */
             margin-bottom: 10px;
          }
-         .hospital a:last-child {
+         .hospital .location-btn {
             margin-bottom: 0; /* Remove last margin on location links */
          }
       }
    </style>
 </head>
 <body>
+    <body>
+        <button onclick="window.location.href='jayIndex.html'" style="position: absolute; top: 10px; left: 10px; padding: 10px; background-color: white; color: #007bff; border: none; border-radius: 5px; cursor: pointer;">
+            <strong>⬅️ </strong>
+        </button>
    <div id="appointment_container">
       <input type="text" id="search_input" placeholder="Search for a hospital">
       <div id="hospital_list"></div>
@@ -127,15 +141,16 @@
             hospitalDiv.className = 'hospital';
             hospitalDiv.innerHTML = `
                 <h3 class="hospital-name" data-phone="${hospital.phone}">${hospital.name}</h3>
-           
-            <p>
-                <a href="tel:${hospital.phone}" class="contact-btn">
-                    <i class="fas fa-phone-alt"></i> Call
-                </a>
-            </p>
-            <a href="${hospital.location}" target="_blank" style="color: blue;">
-                <i class="fas fa-map-marker-alt"></i> View Location
-            </a>
+             
+                  <p style="display: flex; align-items: center;">
+    <a href="tel:${hospital.phone}" class="contact-btn" title="CALL NOW">
+        <img src="assets/phone.png" alt="Call Icon" style="width: 30px; height: 30px; vertical-align: middle;"> 
+    </a>
+    <a href="${hospital.location}" target="_blank" class="location-btn" title="VIEW LOCATION">
+        <img src="Location_button.avif" alt="Location Icon" style="width: 30px; height: 30px; vertical-align: middle;"> 
+    </a>
+</p>
+
         `;
             hospitalContainer.appendChild(hospitalDiv);
         });

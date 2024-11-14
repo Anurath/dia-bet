@@ -185,10 +185,38 @@
         form#image_form button:hover {
             background-color: #0056b3;
         }
+        .image_upload{
+            width: 50%;
+        }
+        .image_upload{
+            display: flex;
+            justify-content:space-evenly;
+            align-items: center;
+            background-color: #f1f1f1;
+            width: 100%;
+        }
+
+        .book_button{
+            height:40px;
+            border-radius:34px;
+            background-color: #FFD700;
+            color: white;
+            transition:0.2s;
+        }
+        .book_button>a{
+            text-decoration: none;
+        }
+        .book_button:hover{
+            cursor: pointer;
+            transform: scale(1.2);
+        }
 
     </style>
 </head>
 <body>
+    <button onclick="window.location.href='index.html'" style="position: absolute; top: 10px; left: 10px; padding: 10px; background-color: white; color: #007bff; border: none; border-radius: 5px; cursor: pointer;">
+        <strong>⬅️ </strong>
+    </button>
     <div id="chat_container">
         <div class="header">
             <i class="fas fa-comments"></i><h2>DiaBot</h2>
@@ -202,10 +230,15 @@
         </div>
 
         <!-- Image Upload Form -->
-        <form id="image_form" enctype="multipart/form-data">
-            <input type="file" id="prescription_image" accept="image/*">
-            <button type="submit" class="floating-btn"><i class="fas fa-upload"></i> Upload</button>
-        </form>
+        <div class="image_upload">
+            <form id="image_form" enctype="multipart/form-data">
+                <input type="file" id="prescription_image" accept="image/*">
+                <button type="submit" class="floating-btn"><i class="fas fa-upload"></i> Upload</button>
+            </form>
+            <div class="book_aptm">
+                <button class="book_button"><a href="appointments1.html">Book an Appointment</a></button>
+            </div>
+        </div>
     </div>
 
     <script>

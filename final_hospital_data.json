@@ -4,280 +4,292 @@
             "name": "Chellaram Hospital - Diabetes Care & Multispeciality,Bavdhan",
     
             "phone": "+91206683977",
-            "location": "https://www.google.com/maps/search/?api=1&query=Chellaram+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Chellaram+Hospital+-+Diabetes+Care+%26+Multispeciality/@18.5195684,73.7597226,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2be605e24f36d:0x2731c509fcd368f3!8m2!3d18.5195687!4d73.7700009!16s%2Fg%2F1tltktp1?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Poona Hospital and Research Centre,Alka Talkies",
             "phone": "+919730559600",
-            "location": "https://www.google.com/maps/search/?api=1&query=Poona+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Poona+Hospital+And+Research+Centre/@18.5111792,73.8319229,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c075f909f913:0x54d12ea7498c2ebe!8m2!3d18.5111795!4d73.8422012!16s%2Fg%2F1tf8rk4k?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Manipal Hospital,Baner",
          
             "phone": "+88061924206",
-            "location": "https://www.google.com/maps/search/?api=1&query=Manipal+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Manipal+Hospitals+Baner/@18.5664918,73.7593454,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf1f0cb3769f:0x649ba20bc78a6f16!8m2!3d18.5664921!4d73.7696237!16s%2Fg%2F11s42s5csj?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Ruby Hall Clinic,Sassoon Road",
          
             "phone": "+912044123456",
-            "location": "https://www.google.com/maps/search/?api=1&query=Ruby+Hall+Clinic+Pune"
+            "location": "https://www.google.com/maps/place/Ruby+Hall+Clinic+-+Sassoon+Road/@18.5335839,73.8668783,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0f827512e15:0x47538bcedae49c07!8m2!3d18.5335842!4d73.8771566!16zL20vMGJfenc5?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Aditya Birla Memorial Hospital, Chinchwad",
           
             "phone": "+919029876543",
-            "location": "https://www.google.com/maps/search/?api=1&query=Aditya+Birla+Memorial+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Aditya+Birla+Memorial+Hospital/@18.6257157,73.7644977,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b99df46ea253:0xe83013cd8eda1fc1!8m2!3d18.625716!4d73.774776!16s%2Fm%2F0ch515j?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
-            "name": "Sahyadri Hospital, Hadpsar",
+            "name": "Sahyadri Super Speciality Hospital, Hadapsar",
             
-            "phone": "+912045678901",
-            "location": "https://www.google.com/maps/search/?api=1&query=Sahyadri+Hospital+Pune"
+            "phone": "08888822222",
+            "location": "https://www.google.com/maps/place/Sahyadri+Super+Speciality+Hospital+Hadapsar/@18.5028697,73.9218621,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f76ced78d7:0xeffa72af5128eaab!8m2!3d18.50287!4d73.9321404!16s%2Fg%2F1thw55fd?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Jehangir Hospital, Sangamvadi",
           
             "phone": "+912036543210",
-            "location": "https://www.google.com/maps/search/?api=1&query=Jehangir+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Jehangir+Hospital/@18.5303445,73.8664483,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c05816d29283:0xfe98c3452724e113!8m2!3d18.5303448!4d73.8767266!16s%2Fm%2F09v3j2y?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
-            "name": "Lokmanya Hospital",
+            "name": "Lokmanya hospital Nigdi",
            
             "phone": "+912056789012",
-            "location": "https://www.google.com/maps/search/?api=1&query=Lokmanya+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Lokmanya+hospital+Nigdi/@18.6559509,73.7631011,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b950fd6ed5a3:0x3fe995feaccbfbee!8m2!3d18.6559512!4d73.7733794!16s%2Fg%2F1hf4m3jby?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Sancheti Hospital",
            
             "phone": "+919021234567",
-            "location": "https://www.google.com/maps/search/?api=1&query=Sancheti+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Sancheti+Hospital/@18.5299756,73.8426984,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c086dd5c5e85:0x8a8ad0458938df70!8m2!3d18.5299759!4d73.8529767!16s%2Fg%2F1vqmgtqp?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
-            "name": "Columbia Asia Hospital, Mundhwa",
+            "name": "Manipal/Columbia Asia Hospital, Mundhwa",
             
             "phone": "+912034567890",
-            "location": "https://www.google.com/maps/search/?api=1&query=Columbia+Asia+Hospital+Pune"
+            "location": "https://www.google.com/maps/place/Manipal+Hospital,+Kharadi+-+Pune/@18.541078,73.9254377,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c17e1f71097f:0xb8128b27d5b8e139!8m2!3d18.5410783!4d73.935716!16s%2Fg%2F11xbgjn8z?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Noble Hospital, Hadapsar",
            
             "phone": "+917942686486",
-            "location": "https://www.google.com/maps/dir//NOBLE+HOSPITAL+HADAPSAR+PUNE,+Magarpatta+Road,+Magarpatta,+Hadapsar,+Pune,+Maharashtra/@18.5050155,73.8858514,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c1f10783d64d:0x4f4955b8fd4ba112!2m2!1d73.927137!2d18.50502?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Noble+Hospital,+Bypass+Rd,+North+Hadapsar,+Hadapsar,+Pune,+Maharashtra+411028/@18.504904,73.9167943,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f107f8ac59:0xd44f09fd94d0e600!8m2!3d18.5049043!4d73.9270726!16s%2Fg%2F11bw3zdfyx?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "KEM Hospital, Rasta Peth",
            
             "phone": "+917942687927",
-            "location": "https://www.google.com/maps/dir//KEM+Hospital,+Mudaliar+Road,+Rasta+Peth,+Pune,+Maharashtra/@18.5199678,73.8256909,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c067a2fd93e1:0x1d019a52420f9b1b!2m2!1d73.8669765!2d18.5199723?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/KEM+Hospital/@18.519972,73.8566982,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c067a2fd93e1:0x1d019a52420f9b1b!8m2!3d18.5199723!4d73.8669765!16s%2Fg%2F11g7ny2wz1?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Vishwaraj Superspeciality Hospital, Loni Kalbore",
            
             "phone": "+919035187947",
-            "location": "https://www.google.com/maps/dir//VishwaRaj+Hospital,+Vishwaraj+hospital,+Near+Loni+Railway+station+Loni+Kalbhor,+Solapur+-+Pune+Hwy,+Pune,+Maharashtra+412201/@18.4896501,73.9811951,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2e962952e9f33:0x981154a5a58c7c16!2m2!1d74.0224807!2d18.4896546?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/VishwaRaj+Hospital+Pune/@18.4896543,74.0122024,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2e962952e9f33:0x981154a5a58c7c16!8m2!3d18.4896546!4d74.0224807!16s%2Fg%2F11bwkdlty_?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Dr Adling's Diabetes Care Clinic, Hadapsar",
            
             "phone": "+918411990315",
-            "location": "https://www.google.com/maps/dir//Dr+Adling's+Diabetes+Care+Clinic,+Solapur+-+Pune+Highway,+near+Shankar-Math,+Hadapsar+Gaon,+Hadapsar,+Pune,+Maharashtra/@18.503189,73.8815615,13z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c2029f7d2d15:0xf803fb05d407aeae!2m2!1d73.9228471!2d18.5031935?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Dr+Adling's+Diabetes+Care+Clinic/@18.5031932,73.9125688,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c2029f7d2d15:0xf803fb05d407aeae!8m2!3d18.5031935!4d73.9228471!16s%2Fg%2F11b6_hh9n4?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Freedom from Diabetes, Deccan Gymkhana",
            
             "phone": "+917776077760",
-            "location": "https://www.google.com/maps/dir//Freedom+from+Diabetes,+Pune,+Parth,+Ghodke+Chowk,+Prabhat+Road,+Deccan+Gymkhana,+Pune,+Maharashtra/@18.503189,73.8815615,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x3bc2c12188b85257:0x223a580298a7c0fb!2m2!1d73.8336878!2d18.5144356!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Freedom+from+Diabetes,+Pune/@18.5144869,73.8234222,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c12188b85257:0x223a580298a7c0fb!8m2!3d18.5144872!4d73.8337005!16s%2Fg%2F11f73y8cw4?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
-        {
-            "name": "Nectar-Diabetes & Thyroid Center, Swargate",
-           
-            "phone": "+912024221011",
-            "location": "https://www.google.com/maps/dir//Nectar+Diabetes+Care+%26+Thyroid+Centre,+Mitra+Mandal+Chowk,+Swargate,+Pune,+Maharashtra/@18.503189,73.8815615,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x3bc2c17f63694125:0x9e2789ff8b8350ea!2m2!1d73.8558497!2d18.4971363!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
-        },
+    
         {
             "name": "Wise Diabetes And Research Center, Fatima Nagar",
            
             "phone": "+918530111065",
-            "location": "https://www.google.com/maps/dir//Wise+Diabetes+And+Research+Center,+Fatima+Nagar,+Wanowrie,+Pune,+Maharashtra/@18.503189,73.8815615,13z/data=!3m2!4b1!5s0x3bc2c02e0624d3b1:0xcd8927bdc22f2d10!4m9!4m8!1m0!1m5!1m1!1s0x3bc2c1c573a8e09b:0x7d6239c009cd391c!2m2!1d73.900435!2d18.504224!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Wise+Diabetes+And+Research+Center/@18.5042237,73.8901567,15z/data=!3m2!4b1!5s0x3bc2c02e0624d3b1:0xcd8927bdc22f2d10!4m6!3m5!1s0x3bc2c1c573a8e09b:0x7d6239c009cd391c!8m2!3d18.504224!4d73.900435!16s%2Fg%2F11clycshvw?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
-            "name": "Family Physician Clinic, NIBM",
+            "name": "Dr. Smita P Das, NIBM",
            
-            "phone": "+918086194996",
-            "location": "https://www.google.com/maps/dir//Family+Physician+Clinic,+NIBM+Road,+Mahalunge+Ingale,+Mahalunge,+Pune,+Maharashtra/@18.503189,73.8815615,13z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x3bc2c057929793d1:0x73b6a243677e0e6d!2m2!1d73.8990142!2d18.5175125!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "phone": "08147087859",
+            "location": "https://www.google.com/maps/place/Dr.+Smita+P+Das/@18.4775006,73.8910367,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebe1b84946f7:0xab30b69cc4537787!8m2!3d18.4775009!4d73.901315!16s%2Fg%2F11fmd7_dzn?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
-            "name": "Diabetes Endocrine and Research Center, Anand Nagar",
+            "name": "Nectar Diabetes Care & Thyroid Centre",
             
-            "phone": "+918304425274",
-            "location": "https://www.google.com/maps/dir//Diabetes+Endocrine+and+Research+Center,+Anand+Nagar,+Pune,+Maharashtra/@18.503189,73.8815615,13z/data=!3m2!4b1!5s0x3bc2c121b13045eb:0x9db5b894209b5e3f!4m9!4m8!1m0!1m5!1m1!1s0x3bc2c1a6bbf793e:0x64cdcb8b7a51a5c0!2m2!1d73.859584!2d18.514396!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "phone": "07588661401",
+            "location": "https://www.google.com/maps/place/Nectar+Diabetes+Care+%26+Thyroid+Centre/@18.497136,73.8455714,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c17f63694125:0x9e2789ff8b8350ea!8m2!3d18.4971363!4d73.8558497!16s%2Fg%2F11fr1nq56b?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
-            "name": "Sinhagad Institute of Radiology & Healthcare, Aundh",
+            "name": "Aims hospital and research center,Aundh",
            
-            "phone": "+91 20 2660 0500",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/Surya+Diagnostics+(+Sury+Healthcare+LLP),+Use+Lift+No+4,+of+parking,+S-16%2F17,2nd+Floor+Destination+centre+mall,+Nanded+City+Sinhgad+Rd,+Pune,+Maharashtra+411068/@18.7434933,73.1311816,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc29523af667e89:0xb7d36b461a42a539!2m2!1d73.7851797!2d18.4602696?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "phone": "08975044444",
+            "location": "https://www.google.com/maps/place/AIMS+HOSPITAL+AND+RESEARCH+CENTER/@18.512923,73.728033,12z/data=!4m10!1m2!2m1!1sSinhagad+Institute+of+Radiology+%26+Healthcare,+Aundh!3m6!1s0x3bc2bf85f7cb2933:0x11e85893cd229e97!8m2!3d18.5625822!4d73.8106399!15sCjJTaW5oZ2FkIEluc3RpdHV0ZSBvZiBSYWRpb2xvZ3kgJiBIZWFsdGhjYXJlLCBBdW5kaFozIjFzaW5oZ2FkIGluc3RpdHV0ZSBvZiByYWRpb2xvZ3kgJiBoZWFsdGhjYXJlIGF1bmRokgEIaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUTNjbVJITUdGQkVBReABAA!16s%2Fg%2F11f7r5419f?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Yashwantrao Chavan Memorial Hospital (YCM Hospital), Pimpri",
            
             "phone": "+91 20 2440 0100",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/PCMC+PGI+Yashwantrao+Chavan+Memorial+Hospital,+YCM+Hospital+Rd,+Sant+Tukaram+Nagar,+Pimpri+Colony,+Pune,+Pimpri-Chinchwad,+Maharashtra+411018/@18.8209215,73.126977,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2b860fbe326e1:0x798186edcd411aba!2m2!1d73.8210282!2d18.6218194?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/PCMC+PGI+Yashwantrao+Chavan+Memorial+Hospital/@18.6218191,73.8107499,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b860fbe326e1:0x798186edcd411aba!8m2!3d18.6218194!4d73.8210282!16s%2Fg%2F1pp2x5_zw?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
-            "name": "Covenant Hospital, Wanowrie",
+            "name": "Dr Yash Khanvilkar, Baner",
            
-            "phone": "+91 20 2660 2233",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/ARMY+INSTITUTE+OF+CARDIO+THORACIC+CENTER,+Military+Hospital+(Cardio+Thoracic+Centre),+MHCTC+Rd,+Old+Golibar+Maidan,+Wanowrie,+Pune,+Maharashtra+411040/@18.7597344,73.1590978,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2c02eaf265c73:0x2af37fc562bf3deb!2m2!1d73.882647!2d18.4923313?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "phone": "07588358076",
+            "location": "https://www.google.com/maps/place/MBBS+MD+Medicine+Doctor,+Physician+-+Dr+Yash+Khanvilkar,+Best+Diabetologist+in+Pune,+Thyroid+%26+Diabetes+Specialist+Baner+Pune/@18.5666775,73.7724346,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf6ed83c1af1:0xb961695c72b0fc77!8m2!3d18.5666778!4d73.7827129!16s%2Fg%2F11r10fpc45?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
+        
         {
             "name": "Inlaks Budhrani Charitable Trust (IBCT) Hospital, Dhankawadi",
            
             "phone": "+91 20 2444 5000",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/Inlaks+and+Budhrani+Hospital,+GVPQ%2B42X,+Vasani+Nagar,+Koregaon+Park,+Pune,+Maharashtra+411001/@18.7815629,73.1585569,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2c0ffcac4e837:0xee215d906ae8d0f7!2m2!1d73.8876117!2d18.535355?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Inlaks+and+Budhrani+Hospital/@18.5353547,73.8773334,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0ffcac4e837:0xee215d906ae8d0f7!8m2!3d18.535355!4d73.8876117!16s%2Fg%2F11h9_zz40j?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
+        },
+        {
+            "name": "Prakash Hospital,Hadpsar",
+           
+            "phone": "02026997628",
+            "location": "https://www.google.com/maps/place/Prakash+Hospital+%7C+MBBS,+MD+%7C+Diabetologist+%7C+Physician+%7C+Hadapsar/@18.5011747,73.9280698,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c1f027bacda7:0xa3e5ddf38855215e!8m2!3d18.501175!4d73.9383481!16s%2Fg%2F1v26kkdk?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
+        },
+        {
+            "name": "Dr. Reema Kashiva,Center of Excellence for Diabetes & Obesity,Hadapsar",
+           
+            "phone": "07276403030",
+            "location": "https://www.google.com/maps/place/Dr.+Reema+Kashiva/@18.5050135,73.926944,17z/data=!4m14!1m7!3m6!1s0x3bc2c18daaaaaa95:0x7c838e2ef7e92cfb!2sDr.+Reema+Kashiva!8m2!3d18.5050135!4d73.926944!16s%2Fg%2F11hbpdmvv3!3m5!1s0x3bc2c18daaaaaa95:0x7c838e2ef7e92cfb!8m2!3d18.5050135!4d73.926944!16s%2Fg%2F11hbpdmvv3?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Armed Forces Medical College (AFMC), Pune Cantonment",
             
             "phone": "+91 20 2688 1000",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/Armed+Forces+Medical+College+Pune,+Southern+Command,+Solapur+-+Pune+Hwy,+near+Race+Course,+Wanowrie,+Pune,+Maharashtra+411040/@18.7613883,72.8302113,9z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2c065a7c56561:0xae0875c377a3a588!2m2!1d73.8900961!2d18.5040375?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Armed+Forces+Medical+College+Pune/@18.5040372,73.8798178,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c065a7c56561:0xae0875c377a3a588!8m2!3d18.5040375!4d73.8900961!16zL20vMDE5Zmwy?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "B. J. Medical College (BJMC) & Sassoon General Hospital, Pune",
            
             "phone": "+91 20 2612 9600",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/B.+J.+Government+Medical+College+%26+Sassoon+General+Hospital,+GVC8%2BQ6P,+JPN+Road,+Railway+Station+Rd,+near+Pune,+411001/@18.766909,73.1514748,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2c05d7f9f59e9:0x477d3d3d49b42db5!2m2!1d73.8655687!2d18.521967?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/B.+J.+Government+Medical+College+%26+Sassoon+General+Hospital/@18.5219667,73.8552904,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c05d7f9f59e9:0x477d3d3d49b42db5!8m2!3d18.521967!4d73.8655687!16s%2Fg%2F11s1y1c2yq?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Deenanath Mangeshkar & Vatsalabai Mangeshkar Hospital, Dhankawadi",
             
             "phone": "+91 20 2440 1111",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/Deenanath+Mangeshkar+Hospital+and+Research+Center,+Deenanath+Mangeshkar+Hospital+Road,+near+Mhatre+Bridge,+Vakil+Nagar,+Erandwane,+Pune,+Maharashtra+411004/@18.7648178,73.1311525,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2bff340000001:0x89785750a9af6cf7!2m2!1d73.8327443!2d18.5018654?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Deenanath+Mangeshkar+Hospital/@18.5019329,73.8222929,15z/data=!4m10!1m2!2m1!1sDeenanath+Mangeshkar+%26+Vatsalabai+Mangeshkar+Hospital,+Dhankawadi!3m6!1s0x3bc2bff2fdfc7ceb:0x13a0a052042f7884!8m2!3d18.502001!4d73.8323981!15sCkFEZWVuYW5hdGggTWFuZ2VzaGthciAmIFZhdHNhbGFiYWkgTWFuZ2VzaGthciBIb3NwaXRhbCwgRGhhbmthd2FkaVpCIkBkZWVuYW5hdGggbWFuZ2VzaGthciAmIHZhdHNhbGFiYWkgbWFuZ2VzaGthciBob3NwaXRhbCBkaGFua2F3YWRpkgEIaG9zcGl0YWyaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUldibkJxU1c1blJSQULgAQA!16s%2Fg%2F11cn1882h1?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
-        {
-            "name": "Aundh District Hospital, Aundh",
-            
-            "phone": "+91 20 2588 3300",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/Aundh+Institute+of+Medical+Sciences,+Survey+No+154,+AIMS+Rd,+Near+AIMS+Square,+Aundh,+Pune,+Maharashtra+411007/@18.795117,73.120391,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2bf36b513fe95:0xc2bcc3ba3728528a!2m2!1d73.8099508!2d18.5629385?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
-        },
+        
         {
             "name": "Sahyadri Specialty Hospital, Deccan Gymkhana",
             
             "phone": "+91 20 4129 5000",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/Sahyadri+Super+Speciality+Hospital,+Deccan+Gymkhana,+Pune,+Karve+Road,+Kachare+Colony,+Deccan+Gymkhana,+Pune,+Maharashtra/@18.7669089,73.1343828,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2bf89a5c2551f:0xe5a1afe1c6049f8b!2m2!1d73.8393427!2d18.5130079?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Sahyadri+Super+Speciality+Hospital,+Deccan+Gymkhana,+Pune/@18.5109221,73.7958671,13z/data=!4m10!1m2!2m1!1sSahyadri+Specialty+Hospital,+Deccan+Gymkhana!3m6!1s0x3bc2bf89a5c2551f:0xe5a1afe1c6049f8b!8m2!3d18.5130079!4d73.8393427!15sCixTYWh5YWRyaSBTcGVjaWFsdHkgSG9zcGl0YWwsIERlY2NhbiBHeW1raGFuYVotIitzYWh5YWRyaSBzcGVjaWFsdHkgaG9zcGl0YWwgZGVjY2FuIGd5bWtoYW5hkgEIaG9zcGl0YWzgAQA!16s%2Fg%2F1td2xx_w?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Galaxy Care Hospital, Hinjewadi",
            
             "phone": "+91 20 6681 9000",
-            "location": "https://www.google.com/maps/dir/19.0283776,73.0923008/Galaxy+Care+Hospital,+Hinjewadi/@18.7669089,73.1421696,10z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2bf89590d4c67:0x3d0c32303488e84e!2m2!1d73.8369917!2d18.5109369?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Galaxy+CARE+Hospital+-+Best+Cancer+Hospital+in+Pune/@18.5109268,73.8267027,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf89590d4c67:0x3d0c32303488e84e!8m2!3d18.5109271!4d73.836981!16s%2Fg%2F1hc5d4ytf?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Deenanath Mangeshkar Hospital,Erandwane",
-           
             "phone": "+91 20 4015 1000",
-            "location": "https://www.google.com/maps/dir//Deenanath+Mangeshkar+Hospital+Road,+near+Mhatre+Bridge,+Vakil+Nagar,+Erandwane,+Pune,+Maharashtra+411004/@18.5018476,73.7503424,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2bff340000001:0x89785750a9af6cf7!2m2!1d73.8327443!2d18.5018654?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/search?q=Deenanath+Mangeshkar+Hospital,Erandwane&hl=en&authuser=0&lqi=CidEZWVuYW5hdGggTWFuZ2VzaGthciBIb3NwaXRhbCxFcmFuZHdhbmVI6cnkqgNaNxAAEAEQAhgAGAEYAhgDIidkZWVuYW5hdGggbWFuZ2VzaGthciBob3NwaXRhbCBlcmFuZHdhbmWSAQhob3NwaXRhbKoBfQoIL20vMGhwbnIQASohIh1kZWVuYW5hdGggbWFuZ2VzaGthciBob3NwaXRhbCgAMh8QASIbmQesGMGq-f7n2bCyYS1BgTsyKFzGStZaNEc1MisQAiInZGVlbmFuYXRoIG1hbmdlc2hrYXIgaG9zcGl0YWwgZXJhbmR3YW5l#rlimm=9905763384357252343"
         },
         {
             "name": "Sharda Clinic,Shankarsheth Road",
             "phone": "+91 020-26452290",
-            "location": "https://www.google.com/maps/dir//408%2F1,+Narveer+Tanaji+Malusare+Rd,+Near+Near+Flyover+Bridge+Ghorpade+Peth,+Near+Near+Ekbote+Colony,+Ekbote+Colony,+Mahatma+Phule+Peth,+Swargate,+Pune,+Maharashtra+411042/@18.5012277,73.7838968,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c03c1864980d:0xe658dbe1bfe43a1f!2m2!1d73.8662985!2d18.5012455?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Sharada+Clinic/@18.5012452,73.8560202,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c03c1864980d:0xe658dbe1bfe43a1f!8m2!3d18.5012455!4d73.8662985!16s%2Fg%2F1tdzv4z8?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Harjeevan Hospital,Sarasbagh",
             "phone": "+91 020-24440981",
-            "location": "https://www.google.com/maps/dir//Harijivan+Hospital,+Saras+Baug+Road,+Dadawadi,+Swargate,+Pune,+Maharashtra/@18.5001326,73.7718566,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c011fb242733:0x463cb0d3806938aa!2m2!1d73.8542585!2d18.5001504?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Harijivan+Hospital/@18.5001501,73.8439802,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c011fb242733:0x463cb0d3806938aa!8m2!3d18.5001504!4d73.8542585!16s%2Fg%2F1tgq52l_?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Panchsheel Hospital,Nana Peth",
             "phone": "+91 020-26352520",
-            "location": "https://www.google.com/maps/dir//Panchsheel+Hospital,+Ramoshi+gate,+Kapad+Ganj,+Bhawani+Peth,+Pune,+Maharashtra/@18.5160691,73.7779714,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c043da767ec5:0xeb1b92418d2f6be2!2m2!1d73.8603733!2d18.5160869?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Panchsheel+Hospital/@18.5160866,73.850095,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c043da767ec5:0xeb1b92418d2f6be2!8m2!3d18.5160869!4d73.8603733!16s%2Fg%2F1v3_13k7?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Naik Hospital,Shukrawar Peth",
             "phone": "+91 020-48130518",
-            "location": "https://www.google.com/maps/dir//Naik+Hospital,+opp.+Shri+Godiji+Parshwanath+Jain+Temple,+Shukrawar+Peth,+Pune,+Maharashtra/@18.5103095,73.7769912,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c06c7856e3fb:0x86ce26c4f3c5bf69!2m2!1d73.8593931!2d18.5103273?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Naik+Hospital/@18.510327,73.8491148,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c06c7856e3fb:0x86ce26c4f3c5bf69!8m2!3d18.5103273!4d73.8593931!16s%2Fg%2F1tfv3l44?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Wadia Hospital,Shukrawar Peth",
             "phone": "+91 020-24485451",
-            "location": "https://www.google.com/maps/dir//N.M+Wadia+Hospital,+Shukrawar+Peth,+Dinkarrav+Javalkar+Road,+Sathe+Colony,+Shukrawar+Peth,+Pune,+Maharashtra/@18.5068496,73.7725211,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c06d4a86651b:0x6e850a465ed0a126!2m2!1d73.854923!2d18.5068674?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/N.M+Wadia+Hospital,+Shukrawar+Peth/@18.5068671,73.8446447,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c06d4a86651b:0x6e850a465ed0a126!8m2!3d18.5068674!4d73.854923!16s%2Fg%2F11d_d5c706?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "MORYA MULTISPECIALITY HOSPITAL,Sinhgad Road",
             "phone": "+91 8048074182",
-            "location": "https://www.google.com/maps/dir//Anudatta+Commercial+Complex,+Sinhgad+Rd,+Wadgaon+Budruk,+Narhe,+Pune,+Maharashtra+411041/@18.4643683,73.7329243,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc29528a9226a5b:0xac9df069d2f30003!2m2!1d73.815326!2d18.4643861?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/MORYA+MULTISPECIALITY+HOSPITAL/@18.4643858,73.8050477,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc29528a9226a5b:0xac9df069d2f30003!8m2!3d18.4643861!4d73.815326!16s%2Fg%2F11h77_j788?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Care multispeciality hospital, Wagholi",
             "phone": "+91 070285 06666",
-            "location": "https://www.google.com/maps/dir//Kolte+arcade,+Nagar+Rd,+Wagholi,+Pune,+Maharashtra+412207/@18.5812402,73.9025905,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c3e4cbd9048d:0x82430e121d6d6e9b!2m2!1d73.9849922!2d18.5812581?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Care+multispeciality+hospital/@18.5812578,73.9747139,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c3e4cbd9048d:0x82430e121d6d6e9b!8m2!3d18.5812581!4d73.9849922!16s%2Fg%2F11h_78c31j?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
+        {
+           "name": "Dr Ajit More Diabetologist at Yashica Clinic Viman Nagar",
+            "phone": "+91 087619 59595",
+            "location": "https://www.google.com/maps/place/Dr+Ajit+More+Diabetologist+at+Yashica+Clinic+Viman+Nagar+Pune/@18.5686081,73.8971827,15z/data=!3m2!4b1!5s0x3bc2c0aa2fa3bbfb:0x8013eba09a3053a8!4m6!3m5!1s0x3bc2c19531dce031:0x6b0d8e521ab11f5b!8m2!3d18.5686084!4d73.907461!16s%2Fg%2F11j0vs9_hb?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" 
+        },
+        {
+            "name": "Dr.Vivek Shejole,Baner",
+             "phone": "09561067636",
+             "location": "https://www.google.com/maps/place/Dr.Vivek+Shejole%5BMBBS,MD+MEDICINE%5D+Trusted+Best+Physician+In+Baner+:+General+Physician+%26+Diabetologist+In+Baner/@18.5561607,73.7570651,15z/data=!4m15!1m8!3m7!1s0x3bc2bf670d7910c7:0xfc429bc4b7a60b5a!2sDr.Vivek+Shejole%5BMBBS,MD+MEDICINE%5D+Trusted+Best+Physician+In+Baner+:+General+Physician+%26+Diabetologist+In+Baner!8m2!3d18.556161!4d73.7673434!10e1!16s%2Fg%2F11pyh1r8bh!3m5!1s0x3bc2bf670d7910c7:0xfc429bc4b7a60b5a!8m2!3d18.556161!4d73.7673434!16s%2Fg%2F11pyh1r8bh?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" 
+         },
         {
             "name": "Deccan Hardikar Hospital,Shivajinagar",
             "phone": "+91 077740 64097",
-            "location": "https://www.google.com/maps/dir//1160%2F61,+University+Rd,+Shivajinagar,+Pune,+Maharashtra+411005/@18.5303925,73.7650798,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c080b5a1ac0b:0xdfdf8b393abef469!2m2!1d73.8474815!2d18.5304104?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Deccan+Hardikar+Hospital+-+Best+Multi-Speciality+Hospital+in+Pune+%7C+Spine+Surgery+%7C+Orthopaedics+%7C+Piles+%7C+Fissure+%7C+Fistula/@18.5304101,73.8372032,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c080b5a1ac0b:0xdfdf8b393abef469!8m2!3d18.5304104!4d73.8474815!16zL20vMGJwZjhf?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Sangvi MultiSpeciality Hospital, New Sangavi",
             "phone": "+91  070306 46646",
-            "location": "https://www.google.com/maps/dir//Survey+No+71%2F1%2F2%2F189,City+Survey+No+2387,Shirode+Road,+Vinayak+Nagar+Ln.+No.+2,+near+Krushna+Chowk,+Krishna+Nagar,+New+Sangavi,+Pune,+Maharashtra+411027/@18.5811089,73.7333752,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2b9110bc9b1d1:0xdd5acfb68ca581f6!2m2!1d73.8157769!2d18.5811268?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Sangvi+MultiSpeciality+Hospital/@18.5811265,73.8054986,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2b9110bc9b1d1:0xdd5acfb68ca581f6!8m2!3d18.5811268!4d73.8157769!16s%2Fg%2F11swpd8l4t?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "IVAA Multi-Speciality Hospital,Baner",
             "phone": "+91  080 4803 6280",
-            "location": "https://www.google.com/maps/dir//201-YASH-101,+Shri+Ram+Nagar,+VIBGYOR+School+Road+Baner,+Annex,+Sus,+Pune,+Maharashtra+411021/@18.5616793,73.6761609,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2bfe3cc0476b9:0xb76ed5ae07436bca!2m2!1d73.7585626!2d18.5616972?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/IVAA+Multi-Speciality+Hospital/@18.5616969,73.7482843,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfe3cc0476b9:0xb76ed5ae07436bca!8m2!3d18.5616972!4d73.7585626!16s%2Fg%2F11p0w8_2vc?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Vighnaharata Multispeciality Hospital,Bibawewadi",
             "phone": "+91 099218 84422",
-            "location": "https://www.google.com/maps/dir//Plot+no+5+Mahesh+Society+Chowk,+Opposite+Bibawewadi+Petrol+Pump,+Pune,+Maharashtra+411037/@18.4692725,73.7818516,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2eabd975b73e1:0x48ececae3fe57a35!2m2!1d73.8642533!2d18.4692903?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Vighnaharata+Multispeciality+Hospital/@18.46929,73.853975,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eabd975b73e1:0x48ececae3fe57a35!8m2!3d18.4692903!4d73.8642533!16s%2Fg%2F11c0tb40pd?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Olive Multispeciality Hospital, Kondhwa",
             "phone": "+91 098900 98813",
-            "location": "https://www.google.com/maps/dir//Kausar+Baugh+Rd,+Kausar+Baugh,+Kondhwa,+Pune,+Maharashtra+411048/@18.4720962,73.8115172,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2eb51d3436377:0xcfa5dae704d3a715!2m2!1d73.8939189!2d18.472114?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Olive+Multispeciality+Hospital/@18.4721137,73.8836406,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2eb51d3436377:0xcfa5dae704d3a715!8m2!3d18.472114!4d73.8939189!16s%2Fg%2F11f5vh61k6?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Imax Multispecialty Hospital,Wagholi",
             "phone": "+91  080 4275 5438",
-            "location": "https://www.google.com/maps/dir//Pune+Nagar+Road,+Kesnand+Phata+Chowk,+Sant+Tukaram+Nagar,+Wagholi,+Pune,+Maharashtra+412207/@18.5832436,73.9040799,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2c37ed0eeb09d:0xa8c2f07677273f7c!2m2!1d73.9864816!2d18.5832615?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Imax+Multispecialty+Hospital/@18.5832612,73.9762033,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c37ed0eeb09d:0xa8c2f07677273f7c!8m2!3d18.5832615!4d73.9864816!16s%2Fg%2F11b63f01dd?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Dr. D. Y. Patil Hospital & Research Center,Pimpri-Chinchwad",
             "phone": "+91092260 07506",
-            "location": "https://www.google.com/maps?rlz=1C1RXQR_enIN975IN976&sca_esv=bb7e95faf22e7d2b&lqi=CiRkeSBwYXRpbCBob3NwaXRhbCBzYW50IHR1a2FyYW0gbmFnYXJIyvKUxIargIAIWjgQABABEAIYABgBGAIYAxgEGAUiJGR5IHBhdGlsIGhvc3BpdGFsIHNhbnQgdHVrYXJhbSBuYWdhcpIBCGhvc3BpdGFsqgFvCggvbS8waHBuchABKhUiEWR5IHBhdGlsIGhvc3BpdGFsKAAyIBABIhzgKkfvZqNroRncSpSunwCrKwbepS6XteDGsFtAMigQAiIkZHkgcGF0aWwgaG9zcGl0YWwgc2FudCB0dWthcmFtIG5hZ2Fy&vet=12ahUKEwjcmvjO8bCJAxVJxzgGHWT6H8wQ8UF6BAgJEFM..i&lei=LWofZ5zQA8mO4-EP5PT_4Aw&cs=1&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KSXFmKVhuMI7MX_tnzISFzUz&daddr=Sant+Tukaram+Nagar,+Pimpri+Colony,+Pimpri-Chinchwad,+Maharashtra+411018"
+            "location": "https://www.google.com/maps/place/Dr.+D.+Y.+Patil+Hospital+%26+Research+Centre/@18.6234844,73.8113678,15z/data=!4m10!1m2!2m1!1sDr.+D.+Y.+Patil+Hospital+%26+Research+Center,Pimpri-Chinchwad!3m6!1s0x3bc2b861a598c525:0x33351712329fed7f!8m2!3d18.6227786!4d73.822143!15sCjtEci4gRC4gWS4gUGF0aWwgSG9zcGl0YWwgJiBSZXNlYXJjaCBDZW50ZXIsUGltcHJpLUNoaW5jaHdhZFo5IjdkciBkeSBwYXRpbCBob3NwaXRhbCAmIHJlc2VhcmNoIGNlbnRlciBwaW1wcmkgY2hpbmNod2FkkgEIaG9zcGl0YWzgAQA!16s%2Fg%2F11c1n8bgbb?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Dr. Patil's SugarSavvy Diabetes Clinic,Gangadham",
             "phone": "+91 092260 07506",
-            "location": "https://www.google.com/maps/dir//First+floor,+Shatrunjay,+Kausalya+building,+Gangadham+-+Shatrunjay+Rd,+near+to+Salve+Garden,+Pune,+Maharashtra+411048/@18.457661,73.7954579,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2ebfd0437c16d:0x585ff815101551aa!2m2!1d73.8778596!2d18.4576788?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Dr.+Patil's+SugarSavvy+Diabetes+Clinic/@18.4576785,73.8675813,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebfd0437c16d:0x585ff815101551aa!8m2!3d18.4576788!4d73.8778596!16s%2Fg%2F11ty28qcms?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Dr Kaustubh Shendkar-Diabetologist in Pune,Sadashiv Peth",
             "phone": "+91077750 33033",
-            "location": "https://www.google.com/maps/dir//Office+number+12,+second+floor,+Global+trade+centre,+Rambaug+Colony,+A1%2F23,+above+Saffron+Vegetarian,+Lokamanya+Nagar,+Navi+Peth,+Sadashiv+Peth,+Pune,+Maharashtra+411030/@18.5077527,73.7619318,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2bfa82e5589eb:0xb728bda97e8d7450!2m2!1d73.8443335!2d18.5077705?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Dr+Kaustubh+Shendkar-+Diabetologist+in+Pune/@18.5077702,73.8340552,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bfa82e5589eb:0xb728bda97e8d7450!8m2!3d18.5077705!4d73.8443335!16s%2Fg%2F11j_17mbmz?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Dr Shilpa Bhosale,Aundh",
             "phone": "+91 096739 40256",
-            "location": "https://www.google.com/maps/dir//Flat+3+First+floor,+Parihar+Chowk,+Shivraj+Apartment,+DP+Rd,+opposite+tennis+court,+near+WESTEND+MALL,+Aundh,+Pune,+Maharashtra+411007/@18.5603409,73.7252797,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2bf3a81a5567b:0x66f0000eaa17d572!2m2!1d73.8076814!2d18.5603588?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Dr+Shilpa+Bhosale+-+Diabetes%2FAsthma%2FThyroid+Doctor%26Clinic+In+Aundh/@18.5603585,73.7974031,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf3a81a5567b:0x66f0000eaa17d572!8m2!3d18.5603588!4d73.8076814!16s%2Fg%2F11c32bhfvt?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Dr. Uday Phadke,Deccan Gymkhana",
             "phone": "+91  020 2546 6551",
-            "location": "https://www.google.com/maps/dir//1st+Floor,+Sahyadri+Hospital+Deccan+Gymkhana,+Karve+Rd,+Erandwane,+Pune,+Maharashtra+411004/@18.5130963,73.7568813,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3bc2bf89590d4c43:0x7d81cd0ce68fad!2m2!1d73.839283!2d18.5131141?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Dr.+Uday+Phadke+%7C+Top+Diabetologist+in+Pune+%7C+Sahyadri+Hospital+Deccan+Gymkhana/@18.5131138,73.8290047,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2bf89590d4c43:0x7d81cd0ce68fad!8m2!3d18.5131141!4d73.839283!16s%2Fg%2F11gcmktv_p?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Dr Piyush Lodha,Swargate",
             "phone": "+91 095884 37579",
-            "location": "https://www.google.com/maps?rlz=1C1RXQR_enIN975IN976&sca_esv=bb7e95faf22e7d2b&lqi=CiwzIHRvcCBkaWFiZXRlcyBob3NwaXRhbCBpbiBhbGwgYXJlYXMgb2YgcHVuZUjp_t-gi7mAgAhaQhAAEAEQAhADEAQQBRAGGAIYAxgIIiwzIHRvcCBkaWFiZXRlcyBob3NwaXRhbCBpbiBhbGwgYXJlYXMgb2YgcHVuZZIBD2VuZG9jcmlub2xvZ2lzdKoBiQEKCC9tLzBocG5yEAEqKCIkMyB0b3AgZGlhYmV0ZXMgaG9zcGl0YWwgaW4gYWxsIGFyZWFzKAAyHxABIhuyU1vh7_CLaUjeT_nsrUaUpKhh1os1LjlQiwwyMBACIiwzIHRvcCBkaWFiZXRlcyBob3NwaXRhbCBpbiBhbGwgYXJlYXMgb2YgcHVuZQ&vet=12ahUKEwj7_NfT87CJAxVmY_UHHf74MPUQ8UF6BAgYEFM..i&lei=T2wfZ7uZNubG1e8P_vHDqQ8&cs=1&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KfWsefScwcI7MWa-yCIi_NEG&daddr=Office+211,+Centre+Point,+Mitra+Mandal+Chowk,+Swargate,+Pune,+Maharashtra+411009"
+            "location": "https://www.google.com/maps/place/Dr+Piyush+Lodha,+Diabetes+Thyroid+and+Hormone+clinic+%7C+Endocrinologist+%7C+Diabetologist+%7C+Thyroid+specialist,+Pune/@18.4971285,73.8454112,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c19cf479acf5:0x6d1fc2222c8be66!8m2!3d18.4971288!4d73.8556895!16s%2Fg%2F11t2v1h_w9?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "name": "Bari Specialty Clinic,Vadgaon Budruk",
             "phone": "+91070280 22292",
-            "location": "https://www.google.com/maps/dir//Flat+no+3,+Kudale+Patil+Towers,+above+Pushpak+Sweets,+Dhanalaxmi+Society,+Varshanand+Society,+Vadgaon+Budruk,+Pune,+Maharashtra+411051/@18.47507,73.7403657,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x3bc295caefc96511:0x7cce528451bfe93c!2m2!1d73.8227674!2d18.4750878?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D"
+            "location": "https://www.google.com/maps/place/Bari+Specialty+Clinic+-+Physician%7C+Diabetes,+thyroid,+BP,+heart+%26+general+Care/@18.4750875,73.8124891,15z/data=!3m1!4b1!4m6!3m5!1s0x3bc295caefc96511:0x7cce528451bfe93c!8m2!3d18.4750878!4d73.8227674!16s%2Fg%2F11j6td077n?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D"
         }
 
 
